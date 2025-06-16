@@ -1,0 +1,4 @@
+{
+  "invokingEvent": "{\"configurationItem\":{\"resourceType\":\"AWS::S3::Bucket\",\"resourceId\":\"demo-bucket-id\",\"resourceName\":\"cloudguard-test-public-bucket\",\"configurationItemCaptureTime\":\"2024-01-01T00:00:00Z\"}}",
+  "resultToken": "test-token"
+}
